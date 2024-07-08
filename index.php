@@ -3,7 +3,7 @@
 class Aplicacion {
     private $clase;
     private $metodo;
-a
+
     //Este constructor toma a traves de GET o la URL el nombre de la clase y el metodo o funcion a ejecutar
     public function __construct() {
         // Verificar y sanitizar las entradas
